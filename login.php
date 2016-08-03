@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Welcome to skoolcom</title>
+	<title>Welcome to skoolcom123</title>
 </head>
 <body>
 <form action="" method="post" enctype="multipart/forn-data">
