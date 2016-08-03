@@ -4,7 +4,7 @@
 	<title>Welcome to CodeIgniter</title>
 </head>
 <body>
-<form action="<?php echo base_url('');?>" method="post" enctype="multipart/forn-data">
+<form action="" method="post" enctype="multipart/forn-data">
 		<div>
 		username:<input type="text" name="username">
 		</div>
