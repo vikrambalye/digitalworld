@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Welcome to CodeIgniter</title>
+	<title>Welcome to Skoolcom</title>
 </head>
 <body>
 <form action="<?php echo base_url('');?>" method="post" enctype="multipart/forn-data">
